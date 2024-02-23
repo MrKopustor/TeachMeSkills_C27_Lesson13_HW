@@ -1,4 +1,4 @@
-# Homework for the #13 lesson
+# Homework for lesson #13
 Task 1:</br>
 Application allows user to register by entering login and password. Application contains:
 - Class <code>"Runner"</code> allows user to enter <code>login</code>, <code>password</code> and <code>confirm password</code> values.
